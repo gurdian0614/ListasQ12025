@@ -1,5 +1,9 @@
 ﻿
-List<string> listaString = new List<string>();
+List<string> listaString = new List<string>() { 
+    "Lista 1", 
+    "Lista 2",
+    "Lista 3"
+};
 listaString.Add("Naranja");
 listaString.Add("5");
 listaString.Add("Real España");
